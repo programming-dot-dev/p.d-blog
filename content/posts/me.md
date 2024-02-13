@@ -1,0 +1,19 @@
+---
+title: 'Introducing Me.Programming.Dev'
+date: 2024-02-13T14:45:20-05:00
+author: 'Ategon'
+categories:
+  - Me
+---
+We have a brand new supporting site for the instances! Me.Programming.Dev is a place where you can see relevant links for things we host. Listed are software we are hosting, status pages, alternate frontends, and more. 
+
+You can find the site [here](https://me.programming.dev)
+
+## Custom pages
+The site is a self-hosted linkstack instance so as a little thank you towards donators, donators are able to get a custom page to put socials on. You can see an example of that over on my page at https://me.programming.dev/@Ategon. If you want a page and you've donated just reach out to me (Ategon).
+
+## Adding links
+As new instances and sites get made new links will be popping up over on the site. I recommend checking it out for new things every once in awhile just in case you miss an announcement on something new were releasing
+
+## Whats this instance I don't recognize?
+You may notice theres something we haven't announced yet on there. Left it in as a little early access for those reading our update posts before it releases later this week. Feel free to make an account and check it out before the floodgates open :)
