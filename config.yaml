@@ -69,6 +69,8 @@ params:
       url: "https://matrix.to/#/#p.d:matrix.org"
     - name: "Links"
       url: "https://me.programming.dev"
+    - name: "RSS"
+      url: "https://stacks.programming.dev/index.xml"
 
   # Menu
   menu:
