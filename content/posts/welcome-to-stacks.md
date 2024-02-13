@@ -1,7 +1,6 @@
 ---
 title: 'Welcome to Stacks!'
 date: 2024-02-12T21:15:13-05:00
-draft: true
 author: 'Ategon'
 categories:
   - Stacks
