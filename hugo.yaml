@@ -1,0 +1,101 @@
+# Config
+baseURL: https://stacks.programming.dev/
+languageCode: en-us
+title: Stacks
+theme: ["PaperMod"]
+copyright: "© 2024 Programming.Dev"
+defaultTheme: auto
+contentDir: 'content'
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Menu
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archive
+      weight: 10
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 20
+
+params:
+  env: 'production'
+
+  # General
+  ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
+  
+  # Posts
+  showReadingTime: true
+  showToc: true
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  showPostNavLinks: true
+  enableEmoji: true
+  
+  # Misc
+  images: ["logo.png"]
+
+  # Label
+  label:
+    text: "Stacks"
+    icon: "/logo.png"
+    iconHeight: 35
+
+  # Home Page
+  homeInfoParams:
+    Title: 📚 Stacks
+    Content: Welcome to the official blog for Programming.Dev! Here we post things relating to our instances including announcements, release notes, community showcases, and more.
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/programming-dot-dev"
+    - name: "Discord"
+      url: "https://discord.gg/SnUk3bKkNC"
+    - name: "Matrix"
+      url: "https://matrix.to/#/#p.d:matrix.org"
+    - name: "Links"
+      url: "https://me.programming.dev"
+
+  # Menu
+  menu:
+    main:
+      - identifier: categories
+        name: categories
+        url: /categories
+        weight: 10
+      - identifier: tags
+        name: tags
+        url: /tags
+        weight: 20
+      - identifier: archives
+        name: archives
+        url: /archives
+        weight: 30
+      - identifier: search
+        name: Search
+        url: /search
+        weight: 25
+
+  # Search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
