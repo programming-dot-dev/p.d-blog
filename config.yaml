@@ -23,8 +23,8 @@ menu:
       name: Tags
       url: /tags
       weight: 30
-    - identifier: archives
-      name: Archives
+    - identifier: archive
+      name: Archive
       url: /archive
       weight: 10
     - identifier: search
@@ -71,26 +71,6 @@ params:
       url: "https://me.programming.dev"
     - name: "RSS"
       url: "https://stacks.programming.dev/index.xml"
-
-  # Menu
-  menu:
-    main:
-      - identifier: categories
-        name: categories
-        url: /categories
-        weight: 10
-      - identifier: tags
-        name: tags
-        url: /tags
-        weight: 20
-      - identifier: archives
-        name: archives
-        url: /archives
-        weight: 30
-      - identifier: search
-        name: Search
-        url: /search
-        weight: 25
 
   # Search
   fuseOpts:
