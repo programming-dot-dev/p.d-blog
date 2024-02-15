@@ -4,6 +4,8 @@ date: 2024-02-13T14:45:20-05:00
 author: 'Ategon'
 categories:
   - Me
+tags:
+  - Release
 ---
 We have a brand new supporting site for the instances! Me.Programming.Dev is a place where you can see relevant links for things we host. Listed are software we are hosting, status pages, alternate frontends, and more. 
 
