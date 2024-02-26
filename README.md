@@ -15,6 +15,12 @@
 
 The Programming.Dev blog is a place where news relating to programming.dev instances including announcements, release notes, community showcases, and more are posted.
 
+## Links
+- [Site](https://wiki.programming.dev)
+- [Main Repo](https://git.programming.dev/Programming.Dev/p.d-wiki)
+- [Discord](https://discord.gg/JsGUgmXheC)
+- [Matrix](https://matrix.to/#/#p.d:matrix.org)
+
 ## Credits
 
 Icon base by [Lorc](https://lorcblog.blogspot.com/) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) with modifications to add a gradient
