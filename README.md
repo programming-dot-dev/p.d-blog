@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <img src="https://git.programming.dev/repo-avatars/10d8e2b35334804de33cc8e3eef6373dc436753b6c1dc0e406e7b6b502f43d4a" width=200px height=200px></img>
-  <h3 align="center"><a href="">P.D Wiki</a></h3>
+  <h3 align="center"><a href="">P.D Blog</a></h3>
   <p align="center">
     Source code for the official Programming.Dev blog.
   </p>
@@ -16,8 +16,8 @@
 The Programming.Dev blog is a place where news relating to programming.dev instances including announcements, release notes, community showcases, and more are posted.
 
 ## Links
-- [Site](https://wiki.programming.dev)
-- [Main Repo](https://git.programming.dev/Programming.Dev/p.d-wiki)
+- [Site](https://blog.programming.dev)
+- [Main Repo](https://git.programming.dev/Programming.Dev/p.d-blog)
 - [Discord](https://discord.gg/JsGUgmXheC)
 - [Matrix](https://matrix.to/#/#p.d:matrix.org)
 
