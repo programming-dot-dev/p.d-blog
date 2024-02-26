@@ -1,0 +1,39 @@
+---
+title: "Voyager and Mlmym Frontend Updates (2024-02-25)"
+date: 2024-02-25T23:48:09-05:00
+author: "Ategon"
+categories:
+  - Voyager
+  - Mlmym
+tags:
+  - Update
+  - Alternate Frontend
+---
+
+Two of our programming.dev alternate frontends have been updated to their most recent versions.
+
+## Voyager (v.programming.dev)
+
+Has been updated from version 1.37.4 -> 1.41.0
+
+Main changes:
+
+- You can long press on comments/posts to get the more actions sheet
+- Gifs can be configured to autoplay always, never, or on wifi
+- When tapping into a post the video continues to play seamlessly
+- Videos in the feed have a mute icon you can toggle
+- You can now hide self-post thumbnails in compact mode
+- You can now set it so you always need to tap to reveal child comments
+- Large post voting buttons can be hidden
+- Community icons can be hidden
+- Link creation now has a dialog for entering link info
+- Subscript and superscript support for markdown
+- You can now long press usernames to block
+
+## Mlmym (old.programming.dev)
+
+Has been updated from version 0.0.36 -> 0.0.38
+
+Main changes:
+
+- Image uploads has been fixed
