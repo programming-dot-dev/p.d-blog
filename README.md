@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-  <img src="https://git.programming.dev/repo-avatars/c340375cacc216c630a9c56dc2f1860028e34b29de9b538f53f2d833252c2357" width=200px height=200px></img>
+  <img src="https://git.programming.dev/repo-avatars/10d8e2b35334804de33cc8e3eef6373dc436753b6c1dc0e406e7b6b502f43d4a" width=200px height=200px></img>
   <h3 align="center"><a href="">P.D Wiki</a></h3>
   <p align="center">
     Source code for the official Programming.Dev blog.
