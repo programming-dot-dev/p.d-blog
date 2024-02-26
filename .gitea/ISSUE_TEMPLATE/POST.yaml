@@ -1,0 +1,20 @@
+name: Post
+description: 🍉 Create a Post Request
+labels: ["Kind/🍉 Documentation"]
+body:  
+  - type: checkboxes
+    attributes:
+      label: Requirements
+      description: Before you create a post request, please check the following -
+      options:
+        - label: Check to see if this request already exists [here](https://git.programming.dev/Programming.Dev/p.d-wiki/issues?state=open&labels=7)
+          required: true
+        - label: Make sure this is a request for a blog post
+          required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the post content that is being requested
+      description: Give a good description of what would go into the post
+    validations:
+      required: true
