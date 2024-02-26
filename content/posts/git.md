@@ -1,0 +1,35 @@
+---
+title: "Introducing Forge aka Git.Programming.Dev"
+date: 2024-02-26T02:47:09-05:00
+author: "Ategon"
+categories:
+  - Forge
+tags:
+  - Release
+---
+
+Introducing a new supporting site for the instance, git.programming.dev aka Forge! This is a spot where development on things relating to the instance will be taking place. This includes for each thing having source code, task boards, and issue trackers viewable.
+
+This gives us a spot away from GitHub so we don't have to rely on them for hosting our code. In addition, Forgejo, the software used, is working on federation so eventually features could be implemented to do things such as interact with Forge directly from our instances.
+
+## Who is allowed to make an account?
+
+Anyone is free to make an account on the site provided you have not broken our code of conduct and have gotten banned from one of the instances.
+
+## What is allowed to be hosted?
+
+Any code that relates to things we do on the fediverse or outside the fediverse but relating to programming.dev is allowed to be hosted on Forge. This includes things such as bots made for lemmy/sublinks, alternate frontends, software we host, tools, etc.
+
+As an example alternate frontends like photon, alexandrite, etc. are free to choose to be hosted on Forge. Software such as Sublinks, etc. can be hosted, and various misc bots and tools such as Fediseer, Automod, etc. can be hosted.
+
+Anything hosted on forge must be able to support the programming.dev instance it is built around. This means that things like bots and alternate frontends for the programming.dev instance must be able to support sublinks.
+
+## How can I make an organization on Forge?
+
+If you want an organization on Forge to group a collection of repos together feel free to reach out to one of the team leads or email info@programming.dev.
+
+## How can I contribute to a programming.dev repo?
+
+If you want to contribute code feel free to fork the relevant repo and then make a pull request back to it with the changes. If you have an idea for something that can be added to a platform or a bug report open up an issue on the relevant repo in the Programming.Dev org.
+
+If you're interested in contributing a large amount to the programming.dev repos feel free to reach out to me (Ategon) on discord or matrix or email info@programming.dev and I can add you to the development team.
