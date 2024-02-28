@@ -12,7 +12,7 @@ tags:
   - Release
 ---
 
-We have a bunch more supporting sites for the instances that have been set up. All of these are contributor sites which means accounts on them are available to programming.dev contributors, donators, and admins.
+We have a bunch more supporting sites for the instances that have been set up. All of these are contributor sites which means accounts on them are available to programming.dev contributors, donators, and/or admins.
 
 ## Vault
 
@@ -44,6 +44,6 @@ Notes is a note taking site for making notes for yourself. The software used is 
 
 ## Polls
 
-Polls is a poll site for getting information. Will be used when we want to poll the community about something or do something like a year end survey on stats for people using different languages, etc. Software used is input.
+Polls is a poll site for getting information. Will be used when we want to poll the community about something or do something like a year end survey on stats for people using different languages, etc. Software used is input. This site is limited to admins only as opposed to being open for donators.
 
 ![](/polls.png)
