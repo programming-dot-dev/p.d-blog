@@ -1,9 +1,8 @@
 ---
-title: 'Introducing Notes, Files, Schedule, Vault, and Polls!'
+title: "Introducing Notes, Files, Schedule, Vault, and Polls!"
 date: 2024-02-28T09:48:24-05:00
 author: "Ategon"
 categories:
-  - Notes
   - Files
   - Schedule
   - Vault
@@ -12,7 +11,7 @@ tags:
   - Release
 ---
 
-We have a bunch more supporting sites for the instances that have been set up. All of these are contributor sites which means accounts on them are available to programming.dev contributors, donators, and/or admins.
+We have a bunch more supporting sites for the instances that have been set up. All of these are contributor sites which means accounts on them are available to programming.dev contributors, and/or admins.
 
 ## Vault
 
@@ -36,14 +35,8 @@ Schedule is a meeting poll site to find out what time people want to meet. This 
 
 The site is at https://schedule.programming.dev and ive got an example poll at https://schedule.programming.dev/invite/Zwr8x2wrQBGA.
 
-## Notes
-
-Notes is a note taking site for making notes for yourself. The software used is memos and its at notes.programming.dev.
-
-![](/memos.png)
-
 ## Polls
 
-Polls is a poll site for getting information. Will be used when we want to poll the community about something or do something like a year end survey on stats for people using different languages, etc. Software used is input. This site is limited to admins only as opposed to being open for donators.
+Polls is a poll site for getting information. Will be used when we want to poll the community about something or do something like a year end survey on stats for people using different languages, etc. Software used is input.
 
 ![](/polls.png)
