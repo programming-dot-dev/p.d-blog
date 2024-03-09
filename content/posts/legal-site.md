@@ -10,6 +10,8 @@ tags:
 
 Introducing the programming.dev legal site! This is a place to easily see all of our legal documents instead of them being spread out in various locations.
 
+You can find the site at https://legal.programming.dev
+
 The documents are open to changes and are not final so if you have suggested changes and ways we can improve them feel free to reach out either by creating an issue on the [legal site repository](https://git.programming.dev/Programming.Dev/p.d-legal), by messaging me (Ategon) or by emailing info@programming.dev
 
 ## Included Documents
