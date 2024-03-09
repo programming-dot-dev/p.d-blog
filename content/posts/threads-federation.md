@@ -15,7 +15,7 @@ This poll is only open to people who have an account on programming.dev as it on
 
 This also only affects us pulling content from them. Them pulling content from us isnt stoppable on our side (and if it is they can still get it through things such as boosts from instances in the middle on the microblog side or by querying the api).
 
-There will be mention of a link aggregator side and a microblog side. The link aggregator side is this site and the microblog side is a new instance being started up where I wanted to get this poll out before I release it publicly.
+There will be mention of a link aggregator side and a microblog side. The link aggregator side is the main programming.dev instance and the microblog side is a new instance being started up where I wanted to get this poll out before I release it publicly.
 
 On the side of Threads they are making interacting using activitypub opt in so the amount of users there would not flood out everything else as people need to explicitly change in their settings that they want to interact with mastodon, etc.
 
