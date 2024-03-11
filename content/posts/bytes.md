@@ -1,0 +1,71 @@
+---
+title: "Introducing Bytes, our programming microblog instance!"
+date: 2024-03-10T20:03:11-04:00
+author: "Ategon"
+categories:
+  - Bytes
+tags:
+  - Release
+---
+
+Introducing the official release of Bytes, our programming microblog. This is being run for the most part in a similar way the main programming.dev instance is and anyone is free to join even if youre not a programmer (but be warned most topics will be about programming or similar aspects).
+
+The software the site is using is called iceshrimp which is one of the misskey forks which has a better UI than mastodon and a lot of advanced features and customization
+
+![bytes home page](/bytes.png)
+
+## Microblogging
+
+Microblogging is essentially making small posts of text or image to share things going on. This can include things like sharing things happening, progress on things youre working on, making polls for people to vote on, chatting with others, etc.
+
+As opposed to programming.dev where things are sorted into communities, bytes works based off hashtags where you add tags to your post based on what categories it falls into.
+
+## Timelines
+
+Theres 5 main timelines in the instance to browse (excluding custom ones).
+
+- Home is the place to see posts from everyone you are following.
+- Local shows posts from everyone in the instance.
+- Social shows a combination of posts from home and local.
+- Recommended show posts from instances that have been recommended by the admins (currently I have this set to mastodon.gamedev.place, peoplemaking.games, and gamemaking.social)
+- All shows posts from all instances the server is currently pulling from.
+
+## Antennas
+
+Antennas are a feature where you can set certain keywords to look out for and it will generate a feed of posts that have one or more of those keywords in them
+
+This has further options such as making AND conditions, OR conditions, excluding posts with certain keywords, getting notifications, and changing the source of posts (to things such as posts made by certain people or on certain instances)
+
+## Reactions
+
+As opposed to only having one thing to react to posts with (aka a like) you can react with any emoji you want on a post. We have added some custom emojis to start off with on the server but if you have ideas for more feel free to reach out.
+
+## Translation
+
+If theres a post made in another language, you can select the translate option to translate the post into english to then be able to read!
+
+## Lists
+
+Lists are a feature where you can set a bunch of people and it will make a feed with posts from those people.
+
+## Drive
+
+The drive is a spot where you can upload photos for usage around the site or externally. All users have a limited amount of drive space but it should be high enough where you wont run into it unless youre uploading a lot of large files.
+
+## Chat
+
+The site has a private message system thats a bit more advanced than the one on programming.dev. You can make group chats that contain multiple people.
+
+## Pages
+
+You can create pages that contain text or images to link to or for other people to browse!
+
+## Channels
+
+Channels are the equivalent of communities. You can make posts for certain topics in channels for that topic. This feature currently doesnt federate and is still a work in progress though.
+
+## Customization
+
+The site features a very large amount of customization where you can customize the content of both of the sidebars to many different options, set a custom theme for yourself (with a built in theme editor), add plugins, mute specific instances, mute posts containing specific words, etc.
+
+Hope you enjoy the new instance!
