@@ -9,6 +9,7 @@ tags:
   - Stacks
   - Release
   - Supporting Site
+  - Infrastructure
 ---
 
 Stacks is the official blog for Programming.Dev! This is a place where we will share news, announcements, upgrades, etc. relating to any instances we host such as programming.dev (and the new instance coming soon).

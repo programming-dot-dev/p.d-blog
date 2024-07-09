@@ -10,6 +10,7 @@ tags:
   - Photon
   - Release
   - Alternate Frontend
+  - Infrastructure
 ---
 
 I made some updates to the post system in stacks.programming.dev to make it a bit
