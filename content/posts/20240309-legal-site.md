@@ -1,11 +1,15 @@
 ---
 title: "Programming.Dev Legal Site"
-date: 2024-03-09T11:58:28-05:00
+slug: "legal-site"
+date: 2024-03-09
 author: "Ategon"
 categories:
-  - Me
+  - Programming.Dev
+  - Bytes
 tags:
+  - Legal
   - Release
+  - Supporting Site
 ---
 
 Introducing the programming.dev legal site! This is a place to easily see all of our legal documents instead of them being spread out in various locations.

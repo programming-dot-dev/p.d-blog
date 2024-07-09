@@ -1,12 +1,14 @@
 ---
 title: "Threads Federation Results"
-date: 2024-03-10T16:40:41-04:00
+slug: "threads-federation-results"
+date: 2024-03-10
 author: "Ategon"
 categories:
   - Programming.Dev
   - Bytes
 tags:
   - Poll
+  - Federation
 ---
 
 Its been a couple days which means I have the results of the threads federation poll we ran on the instance. The percentage difference between all of the options stayed relatively the same through the entire thing.
