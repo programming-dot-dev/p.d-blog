@@ -1,15 +1,14 @@
 ---
 title: "Stacks Reorganization"
-slug: "tesseract-2024"
+slug: "stacks-reorganization"
 date: 2024-07-09
 author: "Ategon"
 categories:
   - Programming.Dev
 tags:
-  - Tesseract
-  - Photon
-  - Release
-  - Alternate Frontend
+  - Stacks
+  - Supporting Site
+  - Update
   - Infrastructure
 ---
 
