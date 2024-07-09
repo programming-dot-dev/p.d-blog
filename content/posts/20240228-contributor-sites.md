@@ -1,14 +1,18 @@
 ---
 title: "Introducing Notes, Files, Schedule, Vault, and Polls!"
-date: 2024-02-28T09:48:24-05:00
+slug: "contributor-sites"
+date: 2024-02-28
 author: "Ategon"
 categories:
+  - Programming.Dev
+  - Bytes
+tags:
   - Files
   - Schedule
   - Vault
   - Polls
-tags:
   - Release
+  - Supporting Site
 ---
 
 We have a bunch more supporting sites for the instances that have been set up. All of these are contributor sites which means accounts on them are available to programming.dev contributors, and/or admins.

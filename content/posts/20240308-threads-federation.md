@@ -1,12 +1,14 @@
 ---
 title: "Threads Federation Poll"
-date: 2024-03-08T19:52:58-05:00
+slug: "threads-federation"
+date: 2024-03-08
 author: "Ategon"
 categories:
   - Programming.Dev
   - Bytes
 tags:
   - Poll
+  - Federation
 ---
 
 In the past we said we were going to run a federation poll regarding Threads (activitypub compatible instance created by meta) and now that theyre ramping up federation and we have a new instance coming that would interact with that I decided its time to do so

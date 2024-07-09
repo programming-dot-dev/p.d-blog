@@ -1,11 +1,12 @@
 ---
 title: "Lemmyvision Song Contest"
 slug: "lemmyvision-2024"
-date: 2024-04-13T11:58:28-05:00
+date: 2024-04-13
 author: "Ategon"
 categories:
-  - Lemmyvision
+  - Programming.Dev
 tags:
+  - Lemmyvision
   - Event
 ---
 
