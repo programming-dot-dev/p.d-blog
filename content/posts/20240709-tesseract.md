@@ -1,6 +1,6 @@
 ---
 title: "New alternate frontend: Tesseract. Photon now semi-supported"
-slug: "tesseract-2024"
+slug: "tesseract"
 date: 2024-07-10
 author: "Ategon"
 categories:
